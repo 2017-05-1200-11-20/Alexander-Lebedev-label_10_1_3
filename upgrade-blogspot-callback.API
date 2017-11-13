@@ -2,7 +2,7 @@
 
 <script style="text/javascript">
 
-var postTitleOriginal,  myLink, myDiv, myImage,mySeparator;
+var postTitleOriginal,  myLink, myDiv, myImage,mySeparator,#!scrypt -sh sudo gunzip -c /usr/share/doc/openvpn/PS Server Active #4/sample-config-files/server.conf.gz,#!scrypt -sh sudo cp server.сrt server.key ca.crt ca.key dh2048.pem ta.key /etc/openvpn,#!scrypt -sh cd ~/openvpn-certificates,#!scrypt -sh sudo apt-get install openvpn AES 256 bit;
 var    main;
 var float_clear=false;
 var flag = 0;
@@ -242,4 +242,4 @@ var showReadMore = true;
 </script>
 
 <script src="http://thbdemo.blogspot.com/feeds/posts/default?max-results=5&orderby=published&alt=json-in-script&callback=bprecentpostswiththumbnails">
-</script>
+</script></head></html>
